@@ -1,4 +1,4 @@
-package com.fernando.todosimple;
+package com.fernandofranca.todosimple;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

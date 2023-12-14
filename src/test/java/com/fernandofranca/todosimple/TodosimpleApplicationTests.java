@@ -1,4 +1,4 @@
-package com.fernando.todosimple;
+package com.fernandofranca.todosimple;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
