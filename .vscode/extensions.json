@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "vscjava.vscode-java-pack",
+        "sohibe.java-generate-setters-getters",
+        "ritwickdey.liveserver",
+        "vmware.vscode-boot-dev-pack"
+    ]
+
+
+}
