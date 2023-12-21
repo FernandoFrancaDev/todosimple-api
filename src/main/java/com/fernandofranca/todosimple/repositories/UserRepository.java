@@ -8,6 +8,9 @@ import java.util.List;
 
 
 @Repository
-public interface UserRepository extends JpaRepository<User, Long>{   
+public interface UserRepository extends JpaRepository<User, Long>{
+
+    org.springframework.boot.autoconfigure.security.SecurityProperties.User save(
+            org.springframework.boot.autoconfigure.security.SecurityProperties.User obj);   
     
 }
